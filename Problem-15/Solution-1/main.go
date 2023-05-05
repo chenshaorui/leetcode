@@ -15,12 +15,10 @@ func threeSum(nums []int) [][]int {
 		}
 
 		target := -nums[i]
-		for left := i + 1; left < n-1; left++ {
+		for left, right := i+1, n-1; left < right; left++ {
 			if left > i+1 && nums[left] == nums[left-1] {
 				continue
 			}
-
-			right := n - 1
 
 			for right > left && nums[left]+nums[right] > target {
 				right--
