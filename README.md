@@ -10,3 +10,7 @@
 - Extension-4 查找最后一个等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-4/main.go)
 - Extension-5 查找最后一个小于等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-5/main.go)
 - Extension-6 查找最后一个小于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-6/main.go)
+
+### 深度优先搜索
+
+- [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
