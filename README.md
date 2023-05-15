@@ -14,6 +14,7 @@
 ### 深度优先搜索
 
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
+- [Problem-236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) 二叉树的最近公共祖先：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-236/Solution-1/main.go)
 
 ### 广度优先搜索
 
