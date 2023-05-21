@@ -11,6 +11,14 @@
 - Extension-5 查找最后一个小于等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-5/main.go)
 - Extension-6 查找最后一个小于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-6/main.go)
 
+### 链表
+
+- [Problem-21](https://leetcode.cn/problems/merge-two-sorted-lists/) 合并两个有序链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-21/Solution-1/main.go)
+- [Problem-206](https://leetcode.cn/problems/reverse-linked-list/) 反转链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-206/Solution-1/main.go)
+- [Problem-92](https://leetcode.cn/problems/reverse-linked-list-ii/) 反转链表 II：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-92/Solution-1/main.go)
+- [Problem-25](https://leetcode.cn/problems/reverse-nodes-in-k-group/) K 个一组翻转链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-25/Solution-1/main.go)
+- [Problem-146](https://leetcode.cn/problems/lru-cache/) LRU 缓存：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-146/Solution-1/main.go)
+
 ### 深度优先搜索
 
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
