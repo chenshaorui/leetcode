@@ -33,3 +33,9 @@
 - [Problem-102](https://leetcode.cn/problems/binary-tree-level-order-traversal/) 二叉树的层序遍历：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-102/Solution-1/main.go)
 - [Problem-103](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) 二叉树的锯齿形层序遍历：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-103/Solution-1/main.go)
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-2/main.go)
+
+### 动态规划
+
+- [Problem-53](https://leetcode.cn/problems/maximum-subarray/) 最大子数组和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-53/Solution-1/main.go)
+- [Problem-121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) 买卖股票的最佳时机：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-121/Solution-1/main.go)
+- [Problem-5](https://leetcode.cn/problems/longest-palindromic-substring/) 最长回文子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-5/Solution-1/main.go)
