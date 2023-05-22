@@ -19,6 +19,10 @@
 - [Problem-25](https://leetcode.cn/problems/reverse-nodes-in-k-group/) K 个一组翻转链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-25/Solution-1/main.go)
 - [Problem-146](https://leetcode.cn/problems/lru-cache/) LRU 缓存：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-146/Solution-1/main.go)
 
+### 栈
+
+- [Problem-20](https://leetcode.cn/problems/valid-parentheses/) 有效的括号：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-20/Solution-1/main.go)
+
 ### 深度优先搜索
 
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
