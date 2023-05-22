@@ -11,6 +11,10 @@
 - Extension-5 查找最后一个小于等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-5/main.go)
 - Extension-6 查找最后一个小于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-6/main.go)
 
+### 滑动窗口
+
+- [Problem-3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 无重复字符的最长子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-3/Solution-1/main.go)
+
 ### 链表
 
 - [Problem-21](https://leetcode.cn/problems/merge-two-sorted-lists/) 合并两个有序链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-21/Solution-1/main.go)
