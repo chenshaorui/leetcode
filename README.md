@@ -23,6 +23,10 @@
 
 - [Problem-20](https://leetcode.cn/problems/valid-parentheses/) 有效的括号：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-20/Solution-1/main.go)
 
+### 哈希表
+
+- [Problem-1](https://leetcode.cn/problems/two-sum/) 两数之和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-1/Solution-1/main.go)
+
 ### 深度优先搜索
 
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
