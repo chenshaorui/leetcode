@@ -73,6 +73,10 @@
 - [Problem-121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) 买卖股票的最佳时机：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-121/Solution-1/main.go)
 - [Problem-5](https://leetcode.cn/problems/longest-palindromic-substring/) 最长回文子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-5/Solution-1/main.go)
 
+### 模拟
+
+- [Problem-54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-54/Solution-1/main.go)
+
 ### 其它
 
 - [Problem-5](https://leetcode.cn/problems/longest-palindromic-substring/) 最长回文子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-5/Solution-2/main.go)（中心扩展）
