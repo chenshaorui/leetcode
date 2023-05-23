@@ -15,6 +15,10 @@
 
 - [Problem-215](https://leetcode.cn/problems/kth-largest-element-in-an-array/) 数组中的第K个最大元素：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-215/Solution-3/main.go)（快速查找）
 
+### 排序
+
+- [Problem-912](https://leetcode.cn/problems/sort-an-array/) 排序数组：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-912/Solution-1/main.go)（快速排序）
+
 ### 滑动窗口
 
 - [Problem-3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 无重复字符的最长子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-3/Solution-1/main.go)
