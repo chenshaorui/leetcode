@@ -1,5 +1,7 @@
 # LeetCode
 
+已完成题目：30（2023/5/21）
+
 ### 二分查找
 
 - [Problem-704](https://leetcode.cn/problems/binary-search/) 二分查找：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-704/Solution-1/main.go)
