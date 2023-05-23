@@ -11,6 +11,10 @@
 - Extension-5 查找最后一个小于等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-5/main.go)
 - Extension-6 查找最后一个小于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-6/main.go)
 
+### 搜索
+
+- [Problem-215](https://leetcode.cn/problems/kth-largest-element-in-an-array/) 数组中的第K个最大元素：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-215/Solution-3/main.go)（快速查找）
+
 ### 滑动窗口
 
 - [Problem-3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 无重复字符的最长子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-3/Solution-1/main.go)
