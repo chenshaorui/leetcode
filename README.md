@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：31（2023/5/24）
+已完成题目：32（2023/5/25）
 
 ### 二分查找
 
@@ -78,6 +78,7 @@
 
 ### 模拟
 
+- [Problem-415](https://leetcode.cn/problems/add-strings/) 字符串相加：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-415/Solution-1/main.go)
 - [Problem-54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-54/Solution-1/main.go)
 
 ### 其它
