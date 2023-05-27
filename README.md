@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：32（2023/5/25）
+已完成题目：33（2023/5/27）
 
 ### 二分查找
 
@@ -49,6 +49,7 @@
 - [Problem-206](https://leetcode.cn/problems/reverse-linked-list/) 反转链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-206/Solution-1/main.go)
 - [Problem-92](https://leetcode.cn/problems/reverse-linked-list-ii/) 反转链表 II：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-92/Solution-1/main.go)
 - [Problem-25](https://leetcode.cn/problems/reverse-nodes-in-k-group/) K 个一组翻转链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-25/Solution-1/main.go)
+- [Problem-2](https://leetcode.cn/problems/add-two-numbers/) 两数相加：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-2/Solution-1/main.go)
 - [Problem-146](https://leetcode.cn/problems/lru-cache/) LRU 缓存：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-146/Solution-1/main.go)
 
 ### 栈
