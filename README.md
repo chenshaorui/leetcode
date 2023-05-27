@@ -28,7 +28,6 @@
 ### 双指针
 
 - [Problem-15](https://leetcode.cn/problems/3sum/) 三数之和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-15/Solution-1/main.go)
-- [Problem-88](https://leetcode.cn/problems/merge-sorted-array/) 合并两个有序数组：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-88/Solution-1/main.go)
 - [Problem-160](https://leetcode.cn/problems/intersection-of-two-linked-lists/) 相交链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-160/Solution-1/main.go)
 
 ### 快慢指针
@@ -38,6 +37,11 @@
 ### 字符串
 
 - [Problem-415](https://leetcode.cn/problems/add-strings/) 字符串相加：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-415/Solution-1/main.go)
+
+### 数组
+
+- [Problem-88](https://leetcode.cn/problems/merge-sorted-array/) 合并两个有序数组：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-88/Solution-1/main.go)
+- [Problem-54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-54/Solution-1/main.go)
 
 ### 链表
 
@@ -79,10 +83,6 @@
 - [Problem-53](https://leetcode.cn/problems/maximum-subarray/) 最大子数组和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-53/Solution-1/main.go)
 - [Problem-121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) 买卖股票的最佳时机：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-121/Solution-1/main.go)
 - [Problem-5](https://leetcode.cn/problems/longest-palindromic-substring/) 最长回文子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-5/Solution-1/main.go)
-
-### 模拟
-
-- [Problem-54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-54/Solution-1/main.go)
 
 ### 其它
 
