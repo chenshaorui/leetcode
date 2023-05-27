@@ -25,14 +25,14 @@
 
 - [Problem-3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 无重复字符的最长子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-3/Solution-1/main.go)
 
+### 快慢指针
+
+- [Problem-141](https://leetcode.cn/problems/linked-list-cycle/) 环形链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-141/Solution-1/main.go)
+
 ### 双指针
 
 - [Problem-15](https://leetcode.cn/problems/3sum/) 三数之和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-15/Solution-1/main.go)
 - [Problem-160](https://leetcode.cn/problems/intersection-of-two-linked-lists/) 相交链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-160/Solution-1/main.go)
-
-### 快慢指针
-
-- [Problem-141](https://leetcode.cn/problems/linked-list-cycle/) 环形链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-141/Solution-1/main.go)
 
 ### 字符串
 
