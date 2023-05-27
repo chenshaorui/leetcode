@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：34（2023/5/27）
+已完成题目：35（2023/5/27）
 
 ### 二分查找
 
@@ -61,6 +61,10 @@
 ### 哈希表
 
 - [Problem-1](https://leetcode.cn/problems/two-sum/) 两数之和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-1/Solution-1/main.go)
+
+### 优先队列
+
+- [Problem-23](https://leetcode.cn/problems/merge-k-sorted-lists/) 合并 K 个升序链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-23/Solution-1/main.go)
 
 ### 堆
 
