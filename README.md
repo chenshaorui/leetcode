@@ -35,6 +35,10 @@
 
 - [Problem-141](https://leetcode.cn/problems/linked-list-cycle/) 环形链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-141/Solution-1/main.go)
 
+### 字符串
+
+- [Problem-415](https://leetcode.cn/problems/add-strings/) 字符串相加：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-415/Solution-1/main.go)
+
 ### 链表
 
 - [Problem-21](https://leetcode.cn/problems/merge-two-sorted-lists/) 合并两个有序链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-21/Solution-1/main.go)
@@ -78,7 +82,6 @@
 
 ### 模拟
 
-- [Problem-415](https://leetcode.cn/problems/add-strings/) 字符串相加：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-415/Solution-1/main.go)
 - [Problem-54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-54/Solution-1/main.go)
 
 ### 其它
