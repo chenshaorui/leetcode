@@ -51,7 +51,7 @@ func mergeKLists(lists []*ListNode) *ListNode {
 
 	var head, curr *ListNode
 
-	for priorityQueue.Len() > 0 {
+	for len(priorityQueue) > 0 {
 		next := heap.Pop(&priorityQueue).(*ListNode)
 
 		if curr == nil {
