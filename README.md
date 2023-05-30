@@ -1,12 +1,13 @@
 # LeetCode
 
-已完成题目：37（2023/5/29）
+已完成题目：38（2023/5/30）
 
 ### 二分查找
 
 - [Problem-704](https://leetcode.cn/problems/binary-search/) 二分查找：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-704/Solution-1/main.go)
 - [Problem-33](https://leetcode.cn/problems/search-in-rotated-sorted-array/) 搜索旋转排序数组：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-33/Solution-1/main.go)
 - [Problem-274](https://leetcode.cn/problems/h-index/) H 指数：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-274/Solution-1/main.go)
+- [Problem-1818](https://leetcode.cn/problems/minimum-absolute-sum-difference/) 绝对差值和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-1818/Solution-1/main.go)
 - Extension-1 查找第一个等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-1/main.go)
 - Extension-2 查找第一个大于等于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-2/main.go)
 - Extension-3 查找第一个大于目标值的元素的位置：[🔗](https://github.com/chenshaorui/leetcode/blob/master/BinarySearch/Extension-3/main.go)
