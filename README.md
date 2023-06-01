@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：39（2023/5/31）
+已完成题目：40（2023/6/1）
 
 ### 二分查找
 
@@ -74,6 +74,7 @@
 
 ### 深度优先搜索
 
+- [Problem-94](https://leetcode.cn/problems/binary-tree-inorder-traversal/) 二叉树的中序遍历：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-94/Solution-1/main.go)
 - [Problem-200](https://leetcode.cn/problems/number-of-islands/) 岛屿数量：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-200/Solution-1/main.go)
 - [Problem-236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) 二叉树的最近公共祖先：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-236/Solution-1/main.go)
 
