@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：40（2023/6/1）
+已完成题目：41（2023/6/2）
 
 ### 二分查找
 
@@ -30,6 +30,7 @@
 ### 快慢指针
 
 - [Problem-141](https://leetcode.cn/problems/linked-list-cycle/) 环形链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-141/Solution-1/main.go)
+- [Problem-142](https://leetcode.cn/problems/linked-list-cycle-ii/) 环形链表 II：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-142/Solution-1/main.go)
 
 ### 双指针
 
