@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：42（2023/6/5）
+已完成题目：43（2023/6/6）
 
 ### 二分查找
 
@@ -31,6 +31,7 @@
 
 - [Problem-141](https://leetcode.cn/problems/linked-list-cycle/) 环形链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-141/Solution-1/main.go)
 - [Problem-142](https://leetcode.cn/problems/linked-list-cycle-ii/) 环形链表 II：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-142/Solution-1/main.go)
+- [Problem-143](https://leetcode.cn/problems/reorder-list/) 重排链表：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-143/Solution-1/main.go)
 
 ### 双指针
 
