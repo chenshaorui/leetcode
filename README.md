@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：45（2023/6/10）
+已完成题目：46（2023/6/11）
 
 ### 二分查找
 
@@ -62,6 +62,7 @@
 ### 栈
 
 - [Problem-20](https://leetcode.cn/problems/valid-parentheses/) 有效的括号：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-20/Solution-1/main.go)
+- [Problem-232](https://leetcode.cn/problems/implement-queue-using-stacks/) 用栈实现队列：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-232/Solution-1/main.go)
 - [Problem-445](https://leetcode.cn/problems/add-two-numbers-ii/) 两数相加 II：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-445/Solution-2/main.go)
 
 ### 哈希表
