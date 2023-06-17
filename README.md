@@ -1,6 +1,6 @@
 # LeetCode
 
-已完成题目：46（2023/6/11）
+已完成题目：47（2023/6/17）
 
 ### 二分查找
 
@@ -98,6 +98,7 @@
 
 - [Problem-53](https://leetcode.cn/problems/maximum-subarray/) 最大子数组和：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-53/Solution-1/main.go)
 - [Problem-121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) 买卖股票的最佳时机：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-121/Solution-1/main.go)
+- [Problem-72](https://leetcode.cn/problems/edit-distance/) 编辑距离：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-72/Solution-1/main.go)
 - [Problem-42](https://leetcode.cn/problems/trapping-rain-water/) 接雨水：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-42/Solution-1/main.go)
 - [Problem-5](https://leetcode.cn/problems/longest-palindromic-substring/) 最长回文子串：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-5/Solution-1/main.go)
 - [Problem-300](https://leetcode.cn/problems/longest-increasing-subsequence/) 最长递增子序列：[🔗](https://github.com/chenshaorui/leetcode/blob/master/Problem-300/Solution-1/main.go)（with 二分查找）
